@@ -1,4 +1,4 @@
-import { themes } from "@storybook/theming";
+import { themes } from '@storybook/theming'
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
@@ -8,10 +8,7 @@ export const parameters = {
       date: /Date$/,
     },
   },
-  backgrounds: {
-    default: "dark",
-  },
   docs: {
     theme: themes.dark,
-  },
-};
+  }
+}
