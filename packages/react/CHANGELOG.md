@@ -1,5 +1,11 @@
 # @kevenpacheco-ignite-ui/react
 
+## 2.2.0
+
+### Minor Changes
+
+- Create Toast component and adjust Tooltip component
+
 ## 2.1.0
 
 ### Minor Changes
