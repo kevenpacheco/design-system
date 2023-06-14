@@ -1,0 +1,2 @@
+import{d as o}from"./index.0128e657.js";import{j as r}from"./jsx-runtime.16fdf2be.js";import"./index.f0395b0d.js";import"./iframe.a6ece499.js";import"./index.84b8894a.js";const m={title:"Surfaces/Toast",component:o.Root,args:{title:"T\xEDtulo",text:"Conte\xFAdo",open:!0},argTypes:{open:{control:{disable:!0}}},decorators:[t=>r(o.Provider,{children:t()})]},p={},d=["Primary"];export{p as Primary,d as __namedExportsOrder,m as default};
+//# sourceMappingURL=Toast.stories.c46f3e32.js.map

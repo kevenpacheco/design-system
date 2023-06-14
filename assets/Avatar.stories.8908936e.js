@@ -1,0 +1,2 @@
+import{A as t}from"./index.0128e657.js";import"./index.f0395b0d.js";import"./iframe.a6ece499.js";import"./index.84b8894a.js";import"./jsx-runtime.16fdf2be.js";const e={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/kevenpacheco.png",alt:"Keven Pacheco"},argTypes:{src:{control:{type:"text"}}}},i={},p={args:{src:void 0}},m=["Primary","WithFallback"];export{i as Primary,p as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.8908936e.js.map
