@@ -8,7 +8,7 @@ import {
 
 export default {
   title: 'Surfaces/Tooltip',
-  component: Tooltip,
+  component: Tooltip.Root,
   args: {
     children: (
       <Avatar src="https://github.com/kevenpacheco.png" alt="Keven Pacheco" />
@@ -17,7 +17,11 @@ export default {
   },
   decorators: [
     (Story) => {
-      return <Box>{Story()}</Box>
+      return (
+        <Tooltip.Provider>
+          <Box>{Story()}</Box>
+        </Tooltip.Provider>
+      )
     },
   ],
 } as Meta<TooltipProps>
